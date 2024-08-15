@@ -6,5 +6,4 @@ function solution(n) {
     else{
         return 2;
     }
-    return answer;
 }
